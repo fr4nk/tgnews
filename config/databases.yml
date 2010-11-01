@@ -1,0 +1,7 @@
+all:
+  doctrine:
+    class: sfDoctrineDatabase
+    param:
+      dsn: 'mysql:host=localhost;dbname=sf_tgnews'
+      username: sf
+      password: mowgli72
