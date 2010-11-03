@@ -7,5 +7,5 @@
 <label for="name">Wie ist dein Name?</label>
 <input type="text" name="name" id="name" value="" />
 <input type="submit" value="Ok" />
-<?php echo link_to('Nein, meinen Namen sag ich nicht!', 'content/update?name=anonymous') ?>
+<?php echo link_to('Nein, meinen Namen sag ich nicht!', 'content/update') ?>
 </form>

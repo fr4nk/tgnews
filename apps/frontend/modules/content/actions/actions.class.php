@@ -10,6 +10,12 @@
  */
 class contentActions extends sfActions
 {
+  private function setTime()
+  {
+       $today = getdate();
+      $this->hour = $today['hours'];
+      $this->minute = $today['minutes'];
+  }
  /**
   * Executes index action
   *
@@ -27,12 +33,22 @@ class contentActions extends sfActions
        */
     public function executeShow()
     {
-      $today = getdate();
-      $this->hour = $today['hours'];
+      $this->setTime();
     }
-        
+    
+    /**
+             * Executes Update-Action
+             *
+             * @param sfRequest $request A request object
+             */        
     public function executeUpdate($request)
-{
-$this->name = $request->getParameter('name');
-}
+    {
+      $this->setTime();
+      $this->name = $request->getParameter('name', ', du Unbekannter');
+    }
+
+   
+                        
+
+
 }
