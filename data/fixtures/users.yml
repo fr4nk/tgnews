@@ -1,0 +1,15 @@
+# fixtures user
+User:
+  frank:
+    vorname:  Frank 
+    name:     Mattes
+    login:    frank
+    password: maythe4
+    
+  thomas:
+    vorname:  Thomas 
+    name:     Goersch
+    login:    tom
+    password: geHeiM
+    
+  

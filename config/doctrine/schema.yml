@@ -1,0 +1,26 @@
+# Klassen der tg-news Anwendung
+Newsletter:
+  actAs: { Timestampable: ~ }
+  columns:
+    user_id: { type: integer, notnull: true }
+    text: { type: string(500), notnull: true }
+    headline: { type: string(50) }
+    ist_gesendet: { type: boolean, notnull: true, default: 0 }
+    beschreibung: { type: string(255) }
+  relations:
+    User: { onDelete: CASCADE, local: user_id, foreign: id, foreignAlias: Newsletters }   
+    
+User:
+  columns:
+    name: { type: string(255), notnull: true }
+    vorname: { type: string(255), notnull: true }
+    password: { type: string(255), notnull: true }
+    login: { type: string(50), notnull: true, unique: true }
+  
+Email:
+  actAs: { Timestampable: ~ }
+  columns:
+    adresse: { type: string(255), notnull: true }
+    name: { type: string(255) }
+    ist_bestaetigt: { type: boolean, notnull: true, default: 0 }
+  

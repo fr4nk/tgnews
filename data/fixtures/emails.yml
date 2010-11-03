@@ -1,0 +1,242 @@
+# fixture emaileintraege
+Email:  
+  email_AnnaH:
+    adresse: AnnaHansLei@t-online.de
+    name: AnnaHansLei@t-online.de
+    
+  email_Info:
+    adresse: Info@wommy.de
+    name: Wommy Wonder
+
+  email_Thomas:
+    adresse: Thomas.Goersch@gmx.de
+    name: Thomas
+
+  email_a:
+    adresse: a.reimann@01019freenet.de
+    name: Frau Reimann
+
+  email_Riemann:
+    adresse: a.riemann@vr-web.de
+    name: Frau Riemann
+
+  email_Boller:
+    adresse: bettina.boller@gmx.de
+    name: Bettina Boller
+
+  email_Bill:
+    adresse: billymeetsdave@web.de
+    name: Bill
+
+  email_Branka:
+    adresse: branislava.zivic@LBBW.de
+    name: Branka
+
+  email_Cebra:
+    adresse: cebra-99@gmx.de
+    name: Cebra
+
+  email_Dennis:
+    adresse: dennis@mkdfilms.de
+    name: Dennis
+
+  email_Doro:
+    adresse: dorothea.bihler@gmx.de
+    name: Doro
+
+  email_Elli:
+    adresse: elisabeth.steidle@web.de
+    name: Elli
+
+  email_Fehrsein:
+    adresse: fehrsein@web.de
+    name: Fehrsein
+
+  email_Gerd:
+    adresse: gerdbreitfeld@web.de
+    name: Gerd
+
+  email_Eden:
+    adresse: h.eden@arcor.de
+    name: Eden
+
+  email_Hede:
+    adresse: hedebeck@web.de
+    name: Hede
+
+  email_Horst:
+    adresse: horst.limbaecher@web.de
+    name: Horst
+
+  email_Sim:
+    adresse: i.sim@online.de
+    name: Sim
+
+  email_Moeller:
+    adresse: info@moeller-webservice.de
+    name: Moeller-Webservice
+
+  email_Ingeborg:
+    adresse: ingeborg.harzheim@freenet.de
+    name: Ingeborg
+
+  email_Jachse:
+    adresse: jachse@web.de
+    name: Jachse
+
+  email_JMD:
+    adresse: jmd.h@t-online.de
+    name: JMD
+
+  email_Kamal:
+    adresse: kamal552@hotmail.com
+    name: Kamal
+
+  email_?:
+    adresse: kuenstlerohneroggenbrot@gmx.de
+    name: ?
+
+  email_Lacoon:
+    adresse: laococoon@gmx.de
+    name: Lacoon
+
+  email_Leviloop:
+    adresse: leviloop@gmx.de
+    name: Leviloop
+
+  email_Printcare:
+    adresse: mail@printcare.de
+    name: Printcare
+
+  email_Marc:
+    adresse: marc@mkdfilms.de
+    name: Marc
+
+  email_Margarethe:
+    adresse: margarethe-danok@web.de
+    name: Margarethe
+
+  email_LaGrafa:
+    adresse: media@lagarafa.de
+    name: LaGrafa
+
+  email_Pearn:
+    adresse: pearn@web.de
+    name: Pearn
+
+  email_Ralf:
+    adresse: ralf@schoenerstedt.de
+    name: Ralf
+
+  email_Reiner:
+    adresse: reinerroob@aol.com
+    name: Reiner
+
+  email_repar:
+    adresse: repar@gmx.de
+    name: repar
+
+  email_Tin Schulz:
+    adresse: tin@tin-schulz.de
+    name: Tin Schulz
+
+  email_Uwe:
+    adresse: uweruhl@hotmail.com
+    name: Uwe
+
+  email_Webmaster:
+    adresse: webmaster@thomasgoersch.de
+    name: Webmaster
+
+  email_andreas Nitschmann:
+    adresse: andynitschmann@gmx.de
+    name: andreas Nitschmann
+
+  email_Hans-Dieter Hunter:
+    adresse: hans-dieter.heiter@arcor.de
+    name: Hans-Dieter Hunter
+
+  email_Franco Brecci Armani:
+    adresse: Armani@kabelbw.de
+    name: Franco Brecci Armani
+
+  email_Mira Kandathil:
+    adresse: mira-t@hotmail.de
+    name: Mira Kandathil
+
+  email_Kandathil:
+    adresse: mirakandathil@web.de
+    name: Kandathil
+
+  email_Sebastian Kolb:
+    adresse: seppo.kolb@web.de
+    name: Sebastian Kolb
+
+  email_Nadia Pajonk:
+    adresse: nadia.p@gmx.net
+    name: Nadia Pajonk
+
+  email_Suzana:
+    adresse: suzannatodorova@yahoo.com
+    name: Suzana
+
+  email_SHäusler:
+    adresse: sabine.michaela@googlemail.com
+    name: Sabine Häusler
+
+  email_SMachotta:
+    adresse: Sylvia_Machotta@web.de
+    name: Sylvia Machotta
+
+  email_DNocher:
+    adresse: desiree.nocher@hotmail.com
+    name: Desiree Nocher
+
+  email_HBechert:
+    adresse: h.bechert@gmx.de
+    name: Helge Bechert
+
+  email_RStaudinger:
+    adresse: roman.staudinger@dgn.de
+    name: Roman Staudinger
+
+  email_EMajor:
+    adresse: eivenmajor@gmx.de
+    name: Eiven Major
+
+  email_Dilek Altinyay:
+    adresse: dilekutay@hotmail.de
+    name: Dilek Altinyay
+
+  email_KKKüffer:
+    adresse: k.kueffer@gmx.de
+    name: Klaus Kunwar Küffer
+
+  email_AdelCarmen:
+    adresse: ariadnadelcarmen@yahoo.es
+    name: Ariadna del Carmen
+
+  email_JWitthuhn:
+    adresse: info@agentur-winter.net
+    name: Janina Witthuhn
+
+  email_SKhan:
+    adresse: sharuk23@gmx.de
+    name: Sharuk Khan
+
+  email_LWachendorf:
+    adresse: Theaterart@web.de
+    name: Lutz Wachendorf
+
+  email_Doofkopf:
+    adresse: kontakt@thomasgoersch.de
+    name: Doofkopf
+
+  email_Senay:
+    adresse: Senay94@gmail.com
+    name: Senay
+
+  email_BKornfeld:
+    adresse: benjamin.kornfeld@gmx.de
+    name: Benjamin Kornfeld
+
