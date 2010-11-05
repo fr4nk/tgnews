@@ -12,5 +12,8 @@
  */
 class Email extends BaseEmail
 {
-
+  public function __toString()
+  {
+    return $this->getName();
+  }
 }

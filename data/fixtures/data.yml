@@ -1,0 +1,386 @@
+Email:
+  Email_1:
+    adresse: AnnaHansLei@t-online.de
+    name: AnnaHansLei@t-online.de
+    ist_bestaetigt: true
+    created_at: '2010-11-02 13:16:00'
+    updated_at: '2010-11-02 13:16:00'
+  Email_2:
+    adresse: Info@wommy.de
+    name: 'Wommy Wonder'
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:03'
+    updated_at: '2010-11-02 13:16:03'
+  Email_3:
+    adresse: Thomas.Goersch@gmx.de
+    name: Thomas
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:03'
+    updated_at: '2010-11-02 13:16:03'
+  Email_4:
+    adresse: a.reimann@01019freenet.de
+    name: 'Frau Reimann'
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:03'
+    updated_at: '2010-11-02 13:16:03'
+  Email_5:
+    adresse: a.riemann@vr-web.de
+    name: 'Frau Riemann'
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:03'
+    updated_at: '2010-11-02 13:16:03'
+  Email_6:
+    adresse: bettina.boller@gmx.de
+    name: 'Bettina Boller'
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:03'
+    updated_at: '2010-11-02 13:16:03'
+  Email_7:
+    adresse: billymeetsdave@web.de
+    name: Bill
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:03'
+    updated_at: '2010-11-02 13:16:03'
+  Email_8:
+    adresse: branislava.zivic@LBBW.de
+    name: Branka
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:03'
+    updated_at: '2010-11-02 13:16:03'
+  Email_9:
+    adresse: cebra-99@gmx.de
+    name: Cebra
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:03'
+    updated_at: '2010-11-02 13:16:03'
+  Email_10:
+    adresse: dennis@mkdfilms.de
+    name: Dennis
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:03'
+    updated_at: '2010-11-02 13:16:03'
+  Email_11:
+    adresse: dorothea.bihler@gmx.de
+    name: Doro
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:03'
+    updated_at: '2010-11-02 13:16:03'
+  Email_12:
+    adresse: elisabeth.steidle@web.de
+    name: Elli
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:03'
+    updated_at: '2010-11-02 13:16:03'
+  Email_13:
+    adresse: fehrsein@web.de
+    name: Fehrsein
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:03'
+    updated_at: '2010-11-02 13:16:03'
+  Email_14:
+    adresse: gerdbreitfeld@web.de
+    name: Gerd
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:03'
+    updated_at: '2010-11-02 13:16:03'
+  Email_15:
+    adresse: h.eden@arcor.de
+    name: Eden
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:03'
+    updated_at: '2010-11-02 13:16:03'
+  Email_16:
+    adresse: hedebeck@web.de
+    name: Hede
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:03'
+    updated_at: '2010-11-02 13:16:03'
+  Email_17:
+    adresse: horst.limbaecher@web.de
+    name: Horst
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:03'
+    updated_at: '2010-11-02 13:16:03'
+  Email_18:
+    adresse: i.sim@online.de
+    name: Sim
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:03'
+    updated_at: '2010-11-02 13:16:03'
+  Email_19:
+    adresse: info@moeller-webservice.de
+    name: Moeller-Webservice
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:03'
+    updated_at: '2010-11-02 13:16:03'
+  Email_20:
+    adresse: ingeborg.harzheim@freenet.de
+    name: Ingeborg
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_21:
+    adresse: jachse@web.de
+    name: Jachse
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_22:
+    adresse: jmd.h@t-online.de
+    name: JMD
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_23:
+    adresse: kamal552@hotmail.com
+    name: Kamal
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_24:
+    adresse: kuenstlerohneroggenbrot@gmx.de
+    name: '?'
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_25:
+    adresse: laococoon@gmx.de
+    name: Lacoon
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_26:
+    adresse: leviloop@gmx.de
+    name: Leviloop
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_27:
+    adresse: mail@printcare.de
+    name: Printcare
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_28:
+    adresse: marc@mkdfilms.de
+    name: Marc
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_29:
+    adresse: margarethe-danok@web.de
+    name: Margarethe
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_30:
+    adresse: media@lagarafa.de
+    name: LaGrafa
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_31:
+    adresse: pearn@web.de
+    name: Pearn
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_32:
+    adresse: ralf@schoenerstedt.de
+    name: Ralf
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_33:
+    adresse: reinerroob@aol.com
+    name: Reiner
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_34:
+    adresse: repar@gmx.de
+    name: repar
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_35:
+    adresse: tin@tin-schulz.de
+    name: 'Tin Schulz'
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_36:
+    adresse: uweruhl@hotmail.com
+    name: Uwe
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_37:
+    adresse: webmaster@thomasgoersch.de
+    name: Webmaster
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_38:
+    adresse: andynitschmann@gmx.de
+    name: 'andreas Nitschmann'
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_39:
+    adresse: hans-dieter.heiter@arcor.de
+    name: 'Hans-Dieter Hunter'
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_40:
+    adresse: Armani@kabelbw.de
+    name: 'Franco Brecci Armani'
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_41:
+    adresse: mira-t@hotmail.de
+    name: 'Mira Kandathil'
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_42:
+    adresse: mirakandathil@web.de
+    name: Kandathil
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_43:
+    adresse: seppo.kolb@web.de
+    name: 'Sebastian Kolb'
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_44:
+    adresse: nadia.p@gmx.net
+    name: 'Nadia Pajonk'
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_45:
+    adresse: suzannatodorova@yahoo.com
+    name: Suzana
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_46:
+    adresse: sabine.michaela@googlemail.com
+    name: 'Sabine H?usler'
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_47:
+    adresse: Sylvia_Machotta@web.de
+    name: 'Sylvia Machotta'
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_48:
+    adresse: desiree.nocher@hotmail.com
+    name: 'Desiree Nocher'
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_49:
+    adresse: h.bechert@gmx.de
+    name: 'Helge Bechert'
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_50:
+    adresse: roman.staudinger@dgn.de
+    name: 'Roman Staudinger'
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_51:
+    adresse: eivenmajor@gmx.de
+    name: 'Eiven Major'
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_52:
+    adresse: dilekutay@hotmail.de
+    name: 'Dilek Altinyay'
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_53:
+    adresse: k.kueffer@gmx.de
+    name: 'Klaus Kunwar K?ffer'
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_54:
+    adresse: ariadnadelcarmen@yahoo.es
+    name: 'Ariadna del Carmen'
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_55:
+    adresse: info@agentur-winter.net
+    name: 'Janina Witthuhn'
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_56:
+    adresse: sharuk23@gmx.de
+    name: 'Sharuk Khan'
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_57:
+    adresse: Theaterart@web.de
+    name: 'Lutz Wachendorf'
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_58:
+    adresse: kontakt@thomasgoersch.de
+    name: Doofkopf
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_59:
+    adresse: Senay94@gmail.com
+    name: Senay
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:04'
+    updated_at: '2010-11-02 13:16:04'
+  Email_60:
+    adresse: benjamin.kornfeld@gmx.de
+    name: 'Benjamin Kornfeld'
+    ist_bestaetigt: false
+    created_at: '2010-11-02 13:16:05'
+    updated_at: '2010-11-02 13:16:05'
+Newsletter:
+  Newsletter_1:
+    User: User_1
+    text: 'Es gibt wenig zu berichten. Doch eines sollte gesagt werden,...'
+    headline: 'Was Neues von hier.'
+    ist_gesendet: false
+    beschreibung: 'Meldung im November'
+    created_at: '2010-11-05 00:00:00'
+    updated_at: '2010-11-05 00:00:00'
+User:
+  User_1:
+    name: Mattes
+    vorname: Frank
+    password: maythe4th
+    login: frank
+  User_2:
+    name: Goersch
+    vorname: Thomas
+    password: geHeiM
+    login: tom
+  User_3:
+    name: Nym
+    vorname: Ano
+    password: keines
+    login: any

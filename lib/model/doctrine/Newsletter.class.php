@@ -12,5 +12,8 @@
  */
 class Newsletter extends BaseNewsletter
 {
-
+  public function __toString()
+  {
+    return $this->getName();
+  }
 }

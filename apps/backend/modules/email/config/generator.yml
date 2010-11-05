@@ -1,0 +1,23 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           Email
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          email
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: 
+        _new:  { label: "Neuen Emaileintrag anlegen" }
+      fields:  ~
+      list:    
+        title:    Emaileintr&auml;ge
+      filter:  ~
+      form:    ~
+      edit:    ~
+      new:     ~
